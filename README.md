@@ -39,7 +39,7 @@ If you want to use the prompt as an empty value, you can do that by using the `a
 {{simple-select
     ...
     prompt="Please select a value"
-    allowEmpty: true}}
+    allowEmpty=true}}
 ```
 
 ### Receiving actions
